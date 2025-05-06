@@ -1,4 +1,4 @@
-package com.thetestingacademy.TestNG_AllureReport;
+package com.thetestingacademy.ex_03_TestNG_AllureReport;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;
